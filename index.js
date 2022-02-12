@@ -14,4 +14,3 @@ function calcularIMC(altura, peso) {
     const alturaAoQuadrado = altura * altura ;
     return (peso / alturaAoQuadrado).toFixed(2);
 } 
-
